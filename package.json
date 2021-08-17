@@ -1,0 +1,14 @@
+{
+  "name": "robo-conversor",
+  "version": "1.0.0",
+  "description": "Um robô em js + node.js + puppeteer que converte as moedas selecionadas ",
+  "main": "index.js",
+
+  "dependencies": {
+    "puppeteer": "^10.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  
+  "author": "Gabriel Martorelli",
+  "license": "MIT"
+}
